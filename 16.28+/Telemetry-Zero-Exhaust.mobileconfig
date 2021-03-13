@@ -5,50 +5,46 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadContent</key>
-			<dict>
-				<key>com.microsoft.office</key>
-				<dict>
-					<key>Forced</key>
-					<array>
-						<dict>
-							<key>mcx_preference_settings</key>
-							<dict>
-								<key>SendAllTelemetryEnabled</key>
-								<false/>
-							</dict>
-						</dict>
-					</array>
-				</dict>
-			</dict>
-			<key>PayloadEnabled</key>
+			<key>FullScreen</key>
 			<true/>
+			<key>Icon</key>
+			<data></data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Freqy</string>
+			<key>PayloadDescription</key>
+			<string>Web Clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.67ad2621-b510-4660-b171-7f7cf53516c9.alacarte.customsettings.c00e172d-4cb4-4631-8fd4-c7fb866efc00</string>
+			<string>com.apple.webClip.managed.0649396H-0893-4D15-86D7-C169AEDAB5B9</string>
 			<key>PayloadType</key>
-			<string>com.apple.ManagedClient.preferences</string>
+			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>c01e572d-4cb4-4231-8fd5-c7fa776efc00</string>
+			<string>0649396H-0893-4D15-86D7-C169AEDAB5B9</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://fulldecent.github.io/system-bus-radio/</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Zero Exhaust Telemetry</string>
+	<string>Freq Gen</string>
 	<key>PayloadDisplayName</key>
-	<string>Zero Exhaust Telemetry</string>
+	<string>Frequency</string>
 	<key>PayloadIdentifier</key>
-	<string>com.microsoft.office.zero.exhaust</string>
+	<string>ebdd50b381ead916</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
-	<key>PayloadScope</key>
-	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>68bd3621-b511-4220-b971-7f7cf54606c9</string>
+	<string>757CD699-5EC4-4B70-B505-5BB97DB0E0F8</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
